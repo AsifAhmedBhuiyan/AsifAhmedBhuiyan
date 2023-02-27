@@ -18,3 +18,7 @@
 <a href="https://github.com/AsifAhmedBhuiyan">
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=AsifAhmedBhuiyan&theme=vue&show_icons=true" alt="My GitHub stats" />
 </a>
+<a href="https://github.com/AsifAhmedBhuiyan">>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAhmedBhuiyan&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  GitHub stats"/>
+</a>
