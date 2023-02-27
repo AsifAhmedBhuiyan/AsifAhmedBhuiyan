@@ -5,8 +5,8 @@
 <p></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifahmedbhuiyan&label=Profile%20views&color=0e75b6&style=flat" alt="asifahmedbhuiyan" /> </p>
 
-<p>I am Asif. I am a student studying in Manitoba Institue of Trade and Technology. I am learning some languages after completing my degree I will be a full stack developer.</p>
-<p>I am very passionate about technology. From my childhood, I wanted to learn about computer. That's why I get my self admitted into an instituiton so that I can learn more and fulfill my wish.</p>
+<p>I am Asif. I am a student studying in Manitoba Institue of Trade and Technology. I am learning some programming languages and after completing my degree I will be a full stack developer.</p>
+<p>I am very passionate about technology. From my childhood, I wanted to learn about computer. That's why I get my self admitted into MITT so that I can learn more and fulfill my wish.</p>
 <p align="left">
 </p>
 
