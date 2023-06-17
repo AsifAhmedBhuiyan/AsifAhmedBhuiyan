@@ -10,7 +10,7 @@
 <p>I am very passionate about technology. From my childhood, I wanted to learn about computer. That's why I get my self admitted into MITT so that I can learn more and fulfill my wish.</p>
 <p align="left">
 </p>
-<br><br><br>
+<br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
