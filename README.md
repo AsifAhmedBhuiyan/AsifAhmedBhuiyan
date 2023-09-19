@@ -12,7 +12,7 @@
 <p align="left">I am Asif Ahmed Bhuiyan, a student at Manitoba Institute of Trade and Technology (MITT), on a journey to becoming a Full Stack Developer. 🚀</p>
 
 <p align="left">I'm deeply passionate about technology, and I've always wanted to explore the world of computers from my childhood. That's why I chose to pursue my education at MITT, where I'm honing my skills and working toward fulfilling my dreams.</p>
-
+<br></br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
