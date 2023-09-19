@@ -60,22 +60,25 @@
 </p>
 
 
-
-
-
-
-
-
-
 <h2 align="left">Let's Connect</h2>
 <p align="left">
   <a href="mailto:asifbhuiyan132@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asifbhuiyan132%40gmail.com-0077b5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="background-color: #0077b5;">
+    <img src="https://img.shields.io/badge/Email-0077b5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="background-color: #0077b5;">
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/asif-ahmed-bhuiyan-75136912a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Asif%20Ahmed%20Bhuiyan-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="background-color: #0077b5;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="background-color: #0077b5;">
+  </a>&nbsp;
+  <a href="https://twitter.com/AsifBhu45158028">
+    <img src="https://img.shields.io/badge/Twitter-0077b5?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="background-color: #0077b5;">
+  </a>&nbsp;
+  <a href="https://www.facebook.com/people/Asif-Bhuiyan/pfbid0AdBEZZJC2SSkk1pBfirQ9X4wwemLCmPZM9hP1yD6ycm2omtYg7f3vnNum4FcsD9Rl/?mibextid=cejktS">
+    <img src="https://img.shields.io/badge/Facebook-0077b5?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="background-color: #0077b5;">
   </a>
 </p>
+
+
+
+
 
 
 <h2 align="left">My GitHub Stats</h2>
