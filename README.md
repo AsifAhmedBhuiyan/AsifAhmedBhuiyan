@@ -15,13 +15,52 @@
 <br></br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=2aa889"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2aa889"/>&nbsp;
-  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=2aa889"/>&nbsp;
-  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=2aa889"/>&nbsp; 
+<h3 align="left">Languages:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/code-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/web-HTML%2FCSS-informational?style=for-the-badge&logo=html5&logoColor=white&color=2aa889"/>&nbsp;
 </p>
+
+<h3 align="left">Frameworks:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/framework-.NET%20Core-informational?style=for-the-badge&logo=.net&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/framework-ASP.NET%20MVC-informational?style=for-the-badge&logo=mvc&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/framework-Entity%20Framework-informational?style=for-the-badge&logo=.net&logoColor=white&color=2aa889"/>&nbsp;
+</p>
+
+<h3 align="left">Databases:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/database-SQL-informational?style=for-the-badge&logo=sql&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/database-SQL%20Server-informational?style=for-the-badge&logo=sql&logoColor=white&color=2aa889"/>&nbsp;
+</p>
+
+<h3 align="left">Libraries and Runtimes:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/library-React.js-informational?style=for-the-badge&logo=react&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/runtime-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2aa889"/>&nbsp;
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/tool-Visual%20Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/tool-VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/tool-Azure%20Data%20Studio-informational?style=for-the-badge&logo=azuredatastudio&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/tool-NuGet-informational?style=for-the-badge&logo=nuget&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/tool-NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/tool-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=2aa889"/>&nbsp;
+  <img src="https://img.shields.io/badge/tool-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=2aa889"/>&nbsp;
+</p>
+
+<h3 align="left">Cloud Services:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/cloud-Microsoft%20Azure-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=2aa889"/>&nbsp;
+</p>
+
+
+</p>
+
+
 
 <h3 align="left">Let's Connect</h3>
 <p align="left">
