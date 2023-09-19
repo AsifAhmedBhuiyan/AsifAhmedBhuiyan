@@ -11,10 +11,11 @@
 
 <p align="left">I am Asif Ahmed Bhuiyan, a student at Manitoba Institute of Trade and Technology (MITT), on a journey to becoming a Full Stack Developer. 🚀</p>
 
-<p align="left">I'm deeply passionate about technology, and I've always wanted to explore the world of computers from my childhood. That's why I chose to pursue my education at MITT, where I'm honing my skills and working toward fulfilling my dreams.</p>
+<p align="left">My passion for technology has been a driving force in my life from a young age. The world of computers has always intrigued me, especially the art of crafting user interfaces that not only function seamlessly but also captivate users. It's this passion that led me to MITT, where I'm dedicatedly honing my front-end development skills, aiming to transform my dreams into captivating digital experiences. While my heart lies in front-end development, I'm also well-versed and enthusiastic about backend technologies. I am open to working on all aspects of web development, from the frontend to the backend, to create holistic and dynamic web solutions.</p>
+
 <br></br><br></br>
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Areas of Expertise</h2>
 <p align="left">
 <h3 align="left" style="background-color: #2aa889; padding: 5px; color: white;">Languages</h3>
 <p align="left" style="background-color: #0077b5; padding: 10px; color: #333;">
