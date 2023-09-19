@@ -13,7 +13,7 @@
 
 <p align="left">My passion for technology has been a driving force in my life from a young age. The world of computers has always intrigued me, especially the art of crafting user interfaces that not only function seamlessly but also captivate users. It's this passion that led me to MITT, where I'm dedicatedly honing my front-end development skills, aiming to transform my dreams into captivating digital experiences. While my heart lies in front-end development, I'm also well-versed and enthusiastic about backend technologies. I am open to working on all aspects of web development, from the frontend to the backend, to create holistic and dynamic web solutions.</p>
 
-<br></br><br></br>
+<br></br>
 
 <h2 align="left">Areas of Expertise</h2>
 <p align="left">
