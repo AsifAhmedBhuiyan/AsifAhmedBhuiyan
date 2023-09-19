@@ -12,68 +12,72 @@
 <p align="left">I am Asif Ahmed Bhuiyan, a student at Manitoba Institute of Trade and Technology (MITT), on a journey to becoming a Full Stack Developer. 🚀</p>
 
 <p align="left">I'm deeply passionate about technology, and I've always wanted to explore the world of computers from my childhood. That's why I chose to pursue my education at MITT, where I'm honing my skills and working toward fulfilling my dreams.</p>
-<br></br>
-<h3 align="left">Skills</h3>
+<br></br><br></br>
+
+<h2 align="left">Skills</h2>
 <p align="left">
-<h3 align="left">Languages:</h3>
-<p align="left">
+<h3 align="left" style="background-color: #2aa889; padding: 5px; color: white;">Languages:</h3>
+<p align="left" style="background-color: #0077b5; padding: 10px; color: #333;">
   <img src="https://img.shields.io/badge/code-C%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2aa889"/>&nbsp;
   <img src="https://img.shields.io/badge/code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2aa889"/>&nbsp;
   <img src="https://img.shields.io/badge/web-HTML%2FCSS-informational?style=for-the-badge&logo=html5&logoColor=white&color=2aa889"/>&nbsp;
 </p>
 
-<h3 align="left">Frameworks:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/framework-.NET%20Core-informational?style=for-the-badge&logo=.net&logoColor=white&color=2aa889"/>&nbsp;
-  <img src="https://img.shields.io/badge/framework-ASP.NET%20MVC-informational?style=for-the-badge&logo=mvc&logoColor=white&color=2aa889"/>&nbsp;
-  <img src="https://img.shields.io/badge/framework-Entity%20Framework-informational?style=for-the-badge&logo=.net&logoColor=white&color=2aa889"/>&nbsp;
+<h3 align="left" style="background-color: #ff5733; padding: 5px; color: white;">Frameworks:</h3>
+<p align="left" style="background-color: #ffab33; padding: 10px; color: #333;">
+  <img src="https://img.shields.io/badge/framework-.NET%20Core-informational?style=for-the-badge&logo=.net&logoColor=white&color=ff5733"/>&nbsp;
+  <img src="https://img.shields.io/badge/framework-ASP.NET%20MVC-informational?style=for-the-badge&logo=mvc&logoColor=white&color=ff5733"/>&nbsp;
+  <img src="https://img.shields.io/badge/framework-Entity%20Framework-informational?style=for-the-badge&logo=.net&logoColor=white&color=ff5733"/>&nbsp;
 </p>
 
-<h3 align="left">Databases:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/database-SQL-informational?style=for-the-badge&logo=sql&logoColor=white&color=2aa889"/>&nbsp;
-  <img src="https://img.shields.io/badge/database-SQL%20Server-informational?style=for-the-badge&logo=sql&logoColor=white&color=2aa889"/>&nbsp;
+<h3 align="left" style="background-color: #33b5ff; padding: 5px; color: white;">Databases:</h3>
+<p align="left" style="background-color: #3385ff; padding: 10px; color: #333;">
+  <img src="https://img.shields.io/badge/database-SQL-informational?style=for-the-badge&logo=sql&logoColor=white&color=33b5ff"/>&nbsp;
+  <img src="https://img.shields.io/badge/database-SQL%20Server-informational?style=for-the-badge&logo=sql&logoColor=white&color=33b5ff"/>&nbsp;
 </p>
 
-<h3 align="left">Libraries and Runtimes:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/library-React.js-informational?style=for-the-badge&logo=react&logoColor=white&color=2aa889"/>&nbsp;
-  <img src="https://img.shields.io/badge/runtime-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2aa889"/>&nbsp;
+<h3 align="left" style="background-color: #ff3399; padding: 5px; color: white;">Libraries and Runtimes:</h3>
+<p align="left" style="background-color: #ff6699; padding: 10px; color: #333;">
+  <img src="https://img.shields.io/badge/library-React.js-informational?style=for-the-badge&logo=react&logoColor=white&color=ff3399"/>&nbsp;
+  <img src="https://img.shields.io/badge/runtime-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=ff3399"/>&nbsp;
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/tool-Visual%20Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=2aa889"/>&nbsp;
-  <img src="https://img.shields.io/badge/tool-VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=2aa889"/>&nbsp;
-  <img src="https://img.shields.io/badge/tool-Azure%20Data%20Studio-informational?style=for-the-badge&logo=azuredatastudio&logoColor=white&color=2aa889"/>&nbsp;
-  <img src="https://img.shields.io/badge/tool-NuGet-informational?style=for-the-badge&logo=nuget&logoColor=white&color=2aa889"/>&nbsp;
-  <img src="https://img.shields.io/badge/tool-NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=2aa889"/>&nbsp;
-  <img src="https://img.shields.io/badge/tool-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=2aa889"/>&nbsp;
-  <img src="https://img.shields.io/badge/tool-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=2aa889"/>&nbsp;
+<h3 align="left" style="background-color: #66ff99; padding: 5px; color: white;">Tools:</h3> <!-- Updated background color -->
+<p align="left" style="background-color: #99ff66; padding: 10px; color: #333;"> <!-- Updated background color -->
+  <img src="https://img.shields.io/badge/tool-Visual%20Studio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=66ff99"/>&nbsp; <!-- Updated background color -->
+  <img src="https://img.shields.io/badge/tool-VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=66ff99"/>&nbsp; <!-- Updated background color -->
+  <img src="https://img.shields.io/badge/tool-Azure%20Data%20Studio-informational?style=for-the-badge&logo=azuredatastudio&logoColor=white&color=66ff99"/>&nbsp; <!-- Updated background color -->
+  <img src="https://img.shields.io/badge/tool-NuGet-informational?style=for-the-badge&logo=nuget&logoColor=white&color=66ff99"/>&nbsp; <!-- Updated background color -->
+  <img src="https://img.shields.io/badge/tool-NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=66ff99"/>&nbsp; <!-- Updated background color -->
+  <img src="https://img.shields.io/badge/tool-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=66ff99"/>&nbsp; <!-- Updated background color -->
+  <img src="https://img.shields.io/badge/tool-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=66ff99"/>&nbsp; <!-- Updated background color -->
 </p>
 
-<h3 align="left">Cloud Services:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/cloud-Microsoft%20Azure-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=2aa889"/>&nbsp;
-</p>
-
-
+<h3 align="left" style="background-color: #ffcc00; padding: 5px; color: white;">Cloud Services:</h3>
+<p align="left" style="background-color: #ff9933; padding: 10px; color: #333;">
+  <img src="https://img.shields.io/badge/cloud-Microsoft%20Azure-informational?style=for-the-badge&logo=microsoftazure&logoColor=white&color=ffcc00"/>&nbsp;
 </p>
 
 
 
-<h3 align="left">Let's Connect</h3>
+
+
+
+
+
+
+<h2 align="left">Let's Connect</h2>
 <p align="left">
   <a href="mailto:asifbhuiyan132@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asifbhuiyan132%40gmail.com-2aa889?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-asifbhuiyan132%40gmail.com-0077b5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="background-color: #0077b5;">
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/asif-ahmed-bhuiyan-75136912a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Asif%20Ahmed%20Bhuiyan-2aa889?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Asif%20Ahmed%20Bhuiyan-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="background-color: #0077b5;">
   </a>
 </p>
 
 
-<h3 align="left">My GitHub Stats</h3>
+<h2 align="left">My GitHub Stats</h2>
 <a href="https://github.com/AsifAhmedBhuiyan">
   <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=AsifAhmedBhuiyan&theme=vue&show_icons=true" alt="My GitHub stats" />
 </a>
