@@ -13,7 +13,7 @@
 
 <p align="left">I'm deeply passionate about technology, and I've always wanted to explore the world of computers from my childhood. That's why I chose to pursue my education at MITT, where I'm honing my skills and working toward fulfilling my dreams.</p>
 <br></br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills</h3>
 <p align="left">
 <h3 align="left">Languages:</h3>
 <p align="left">
